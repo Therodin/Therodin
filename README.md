@@ -23,4 +23,4 @@
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
 </div>
 
-![Snake animation]https://github.com/Therodin/Therodin/edit/main/README.md
+![Snake animation]https://github.com/Therodin
