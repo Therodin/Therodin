@@ -14,3 +14,9 @@
 <img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
 <img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue>
 </div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/gabriel-messias-80a29b215/">
+    <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
