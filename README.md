@@ -14,6 +14,7 @@
 <img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
 <img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue>
 <img align="right" alt="cobrinha-py" height="140" width="100" src=https://cdn.discordapp.com/attachments/450450135856447499/870445501424746536/4e79d2d739d08d530641f679b1643078.png>
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blue" alt="Therodin" /> 
 </div>
 
 ##
