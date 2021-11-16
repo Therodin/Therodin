@@ -13,7 +13,7 @@
 <img align="center" alt="Therodin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
 <img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue>
-<img align="right" alt="cobrinha-py" height="140" width="140" src=![image](https://user-images.githubusercontent.com/73198273/141886499-e2eb6acf-94d2-47b7-98bb-661ae6a5bd85.png)>
+<img align="right" alt="cobrinha-py" height="140" width="140" src=https://user-images.githubusercontent.com/73198273/141886499-e2eb6acf-94d2-47b7-98bb-661ae6a5bd85.png>
 <img src="https://komarev.com/ghpvc/?username=Therodin&color=blue" alt="Therodin" /> 
 </div>
 
