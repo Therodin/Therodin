@@ -1,5 +1,6 @@
 # Olá, Bem-vindo ao meu perfil do github!!!
 - Sinta-se livre para navegar pelos meus códigos
+- Feel free to browse my codes
 ##
 
 <div>
