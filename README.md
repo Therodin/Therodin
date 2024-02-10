@@ -2,7 +2,7 @@
 - Sinta-se livre para navegar pelos meus códigos
 - Feel free to browse my codes
 
-- Sou Eletrotécnico e estou cursando matemática, atualmente trabalho com automações industriais/residenciais.
+- Sou Eletrotécnico, e adoro programação e matemática.
 ##
 
 <div>
