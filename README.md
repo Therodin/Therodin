@@ -30,5 +30,4 @@
 </div>
   
 ##
-  
-![Snake animation](https://github.com/Therodin/Therodin/blob/output/github-contribution-grid-snake.svg)
+
