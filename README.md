@@ -16,7 +16,6 @@
 <img align="center" alt="Therodin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
 <img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue>
-<img align="right" alt="cobrinha-py" height="165" width="163" src=https://cdn.discordapp.com/attachments/449738304145850398/916494140391444561/7ff2fb665ecc0df9a22ad4a3b9a0ee29.jpg>
 <img height="135" width="135" src=https://raw.githubusercontent.com/fawzeus/fawzeus/main/Fractal_tree.gif>
 <img src="https://komarev.com/ghpvc/?username=Therodin&color=blue" alt="Therodin" /> 
 </div>
