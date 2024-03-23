@@ -2,7 +2,7 @@
 - Sinta-se livre para navegar pelos meus códigos
 - Feel free to browse my codes
 
-- Sou Eletrotécnico, e adoro programação e matemática.
+- Adoro programação e matemática.
 ##
 
 <div>
