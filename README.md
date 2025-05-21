@@ -17,6 +17,9 @@
 <img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
 <img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=blue>
 <img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white>
+<img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white>
+<img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white>
+<img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql>
 <img src="https://komarev.com/ghpvc/?username=Therodin&color=blue" alt="Therodin" /> 
 <img height="135" width="135" src=https://raw.githubusercontent.com/fawzeus/fawzeus/main/Fractal_tree.gif>
 </div>
