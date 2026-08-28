@@ -22,6 +22,7 @@
 <img align="center" alt="Therodin-Js" height="30" width="50" src=https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql>
 <img src="https://komarev.com/ghpvc/?username=Therodin&color=blue" alt="Therodin" /> 
 <img align="right" height="135" width="135" src=https://raw.githubusercontent.com/fawzeus/fawzeus/main/Fractal_tree.gif>
+<img align="right" height="135" width="135" src=https://github.com/Therodin/Therodin/blob/main/Warning.gif>
 </div>
 
 ##
